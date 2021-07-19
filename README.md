@@ -1,6 +1,6 @@
-Exercício de lógica.
+<h1>Exercício de lógica.</h1>
 
-O problema, você é o responsável por voltar o troco em um caixa de supermercado.
+O problema, você é o responsável por voltar o troco em um caixa de supermercado.</br>
 Você tem notas infinitas de  10, 5 e 2 reais. Você deve voltar o troco da maior para a menor nota. 
 
 Criei uma função que receba números inteiros você deve retornar um objeto.
